@@ -147,16 +147,7 @@ SmartSecure-IoT-Home-Automation
 ├── hardware
 │   ├── circuit_diagram.png
 │   └── wiring_connections.png
-│
-├── docs
-│   ├── system_architecture.png
-│   ├── block_diagram.png
-│   └── project_report.pdf
-│
-├── images
-│   ├── system_overview.jpg
-│   ├── prototype.jpg
-│   └── components
+|
 │
 └── README.md
 ```
@@ -214,7 +205,7 @@ SmartSecure-IoT-Home-Automation
 📺 Watch the full demo:
 
 ```
-https://youtube.com/your-demo-video
+https://youtu.be/hB52XOwhdw8?si=SB6k_NcendwZzkVw
 ```
 
 ---
@@ -250,5 +241,5 @@ This project is released under the **MIT License**.
 **Raviranjan Kumar**
 
 🎓 B.Tech - Electronics and Communication Engineering  
-🎓 M.Tech - Embedded System Design 
+🎓 M.Tech - Embedded System Design
 💡 Embedded Systems | IoT | VLSI Enthusiast
