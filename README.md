@@ -1,7 +1,7 @@
 # 🏠 SmartSecure: IoT-Based Intelligent Home Automation System
 
 <p align="center">
-<img src="images/system_overview.jpg" width="600">
+<img src="Hardware/Block_diagram_of_the_System.png" width="600">
 </p>
 
 <p align="center">
