@@ -168,7 +168,7 @@ SmartSecure-IoT-Home-Automation
 ### 🔐 Gate Authentication Test
 
 <p align="center">
-<img src="images/gate_test.jpg" width="500">
+<img src="Hardware/door_security.png" width="500">
 </p>
 
 ✔ RFID authentication successful  
@@ -179,7 +179,7 @@ SmartSecure-IoT-Home-Automation
 ### 🌡 Sensor Monitoring Test
 
 <p align="center">
-<img src="images/sensor_test.jpg" width="500">
+<img src="Hardware/envirnment_monitoring.png" width="500">
 </p>
 
 ✔ Accurate temperature and humidity readings  
@@ -190,7 +190,7 @@ SmartSecure-IoT-Home-Automation
 ### 💡 Garden Light Automation
 
 <p align="center">
-<img src="images/garden_light_test.jpg" width="500">
+<img src="Hardware/garden_light.png" width="500">
 </p>
 
 ✔ Automatic switching during night  
@@ -201,7 +201,7 @@ SmartSecure-IoT-Home-Automation
 ### 🌧 Rain Detection Test
 
 <p align="center">
-<img src="images/rain_test.jpg" width="500">
+<img src="Hardware/rain.png" width="500">
 </p>
 
 ✔ Rain detection successful  
