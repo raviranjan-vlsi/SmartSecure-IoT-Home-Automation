@@ -1,7 +1,7 @@
 # 🏠 SmartSecure: IoT-Based Intelligent Home Automation System
 
 <p align="center">
-<img src="Hardware/Block_diagram_of_the_System.png" width="600">
+<img src="Hardware/Complete_System.png" width="600">
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ The system combines **RFID authentication, environmental sensors, automation log
 # 🏗 System Architecture
 
 <p align="center">
-<img src="docs/system_architecture.png" width="650">
+<img src="Hardware/Block_diagram_of_the_System.png" width="600">
 </p>
 
 ### Architecture Flow
@@ -107,13 +107,16 @@ When the **rain sensor detects rainfall**, a servo motor automatically protects 
 | Component | Image |
 |-----------|------|
 | Arduino R4 WiFi | ![arduino](images/arduino.jpg) |
-| RFID RC522 | ![rfid](images/rfid.jpg) |
+| Arduino Uno | ![relay](images/relay.jpg) |
+| RFID  | ![rfid](images/rfid.jpg) |
 | DHT11 Sensor | ![dht11](images/dht11.jpg) |
 | MQ-2 Gas Sensor | ![mq2](images/mq2.jpg) |
 | Rain Sensor | ![rain](images/rain_sensor.jpg) |
 | LDR Sensor | ![ldr](images/ldr.jpg) |
 | Servo Motor | ![servo](images/servo.jpg) |
 | Relay Module | ![relay](images/relay.jpg) |
+| LCD Display | ![relay](images/relay.jpg) |
+
 
 *(Replace these images with photos from your project)*
 
@@ -246,5 +249,6 @@ This project is released under the **MIT License**.
 
 **Raviranjan Kumar**
 
-🎓 Electronics and Communication Engineering  
+🎓 B.Tech - Electronics and Communication Engineering  
+🎓 M.Tech - Embedded System Design 
 💡 Embedded Systems | IoT | VLSI Enthusiast
