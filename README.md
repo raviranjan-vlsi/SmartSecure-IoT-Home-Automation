@@ -106,16 +106,16 @@ When the **rain sensor detects rainfall**, a servo motor automatically protects 
 
 | Component | Image |
 |-----------|------|
-| Arduino R4 WiFi | ![arduino](images/arduino.jpg) |
-| Arduino Uno | ![relay](images/relay.jpg) |
-| RFID  | ![rfid](images/rfid.jpg) |
-| DHT11 Sensor | ![dht11](images/dht11.jpg) |
-| MQ-2 Gas Sensor | ![mq2](images/mq2.jpg) |
-| Rain Sensor | ![rain](images/rain_sensor.jpg) |
-| LDR Sensor | ![ldr](images/ldr.jpg) |
-| Servo Motor | ![servo](images/servo.jpg) |
-| Relay Module | ![relay](images/relay.jpg) |
-| LCD Display | ![relay](images/relay.jpg) |
+| Arduino R4 WiFi | ![arduino](Hardware/arduino_uno_r4_wifi.png) |
+| Arduino Uno | ![relay](Hardware/Arduino_uno.png) |
+| RFID  | ![rfid](Hardware/rfid.png) |
+| DHT11 Sensor | ![dht11](Hardware/dht11.png) |
+| MQ-2 Gas Sensor | ![mq2](Hardware/mq2.png) |
+| Rain Sensor | ![rain](Hardware/rain_drop.jpg) |
+| LDR Sensor | ![ldr](Hardware/ldr.png) |
+| Servo Motor | ![servo](Hardware/servo.png) |
+| Relay Module | ![relay](Hardware/relay.webp) |
+| LCD Display | ![relay](Hardware/lcd.png) |
 
 
 *(Replace these images with photos from your project)*
