@@ -118,7 +118,7 @@ When the **rain sensor detects rainfall**, a servo motor automatically protects 
 | LCD Display | <img src="Hardware/lcd.png" width="120"> |
 
 
-*(Replace these images with photos from your project)*
+
 
 ---
 
